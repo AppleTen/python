@@ -1,1 +1,1 @@
-import dj jng jknjv nk nkn 
+from import 123
